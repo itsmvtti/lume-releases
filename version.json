@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  "1.0.2",
     "url":  "https://github.com/itsmvtti/lume-releases/releases/download/v1.0.2/Lume-1.0.2-Setup.exe",
     "notes":  "Toolbar mode is now a real Windows toolbar - apps maximise underneath it. Fixes ghost mode, detached-strip presets and Aero Snap, and the tray menu. New cycling RGB theme.",
