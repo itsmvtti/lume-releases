@@ -25,15 +25,3 @@ whether a newer build is available, and so downloads have a stable home.
 
 - **Releases** — built installers are attached to the
   [Releases](https://github.com/itsmvtti/lume-releases/releases) of this repo.
-
-## Publishing an update
-
-1. Build and sign the installer.
-2. Attach it to a new GitHub Release here.
-3. Bump `version` in `version.json`, point `url` at the download, and write a
-   one-line `notes`. That is what triggers the in-app "update available" prompt.
-
-## Issues
-
-Bug reports and feature requests are welcome in
-[Issues](https://github.com/itsmvtti/lume-releases/issues).
