@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "url": "https://mvtti.gumroad.com/l/lume",
+  "notes": "Window dragging and Aero Snap restored, detached strips reopen reliably, and Lume now survives audio-device changes."
+}
