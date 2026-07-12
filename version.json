@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://mvtti.gumroad.com/l/lume",
-  "notes": "Window dragging and Aero Snap restored, detached strips reopen reliably, and Lume now survives audio-device changes."
+  "notes": "Fixes a startup failure on machines without the Visual Studio tooling installed: Lume now bundles everything it needs to open."
 }
