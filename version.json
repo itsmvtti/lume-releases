@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
-    "url":  "https://github.com/itsmvtti/lume-releases/releases/download/v1.0.3/Lume-1.0.3-Setup.exe",
-    "notes":  "Fixes the white, unclickable window after minimising. Fixes ghost mode on detached strips. Toolbar mode now reserves screen space, so other windows maximise underneath it. Sharper window edges, a new RGB theme, and a full pass over the app\u0027s text.",
+    "version":  "1.0.4",
+    "url":  "https://github.com/itsmvtti/lume-releases/releases/download/v1.0.4/Lume-1.0.4-Setup.exe",
+    "notes":  "Lume goes into the DAW: every meter is now also a VST3 plugin, plus a Lume Server plugin that sends a DAW track\u0027s audio to the app.",
     "date":  "2026-07-13",
-    "sha256":  "bd598866d6ec270fefd492d3c99072e5192c8723d1e0c0129129f6b554a9e125"
+    "sha256":  "c3ac68d6accf4ae3514be5008c07c7cb5e1c8aaff29e0d8da481afb1325c18f7"
 }
