@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.6",
-    "url":  "https://github.com/itsmvtti/lume-releases/releases/download/v1.0.6/Lume-1.0.6-Setup.exe",
-    "notes":  "Auto opacity for ghost strips: they stay readable and fade out of the cursor\u0027s way. Spectrogram plugin opens sharper, in magma.",
+    "version":  "1.0.7",
+    "url":  "https://github.com/itsmvtti/lume-releases/releases/download/v1.0.7/Lume-1.0.7-Setup.exe",
+    "notes":  "Meters now follow their shape (auto orientation, plus a full-width horizontal loudness meter), detached strips survive toolbar mode, a hidden toolbar no longer keeps the desktop\u0027s space, and Alt+F4 works.",
     "date":  "2026-07-13",
-    "sha256":  "76fbc317994d7f6694e3c90f1096baa62b32c5b9ed5a5307a4ea721caf853c5d"
+    "sha256":  "fa03518a4eaa1bfb1989d5d0d8297b314a9c0da768eddd2c510db00d6f146340"
 }
