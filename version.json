@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.5",
-    "url":  "https://github.com/itsmvtti/lume-releases/releases/download/v1.0.5/Lume-1.0.5-Setup.exe",
-    "notes":  "Fixes the docked toolbar going wild when resized; the app icon now follows the gold theme.",
+    "version":  "1.0.6",
+    "url":  "https://github.com/itsmvtti/lume-releases/releases/download/v1.0.6/Lume-1.0.6-Setup.exe",
+    "notes":  "Auto opacity for ghost strips: they stay readable and fade out of the cursor\u0027s way. Spectrogram plugin opens sharper, in magma.",
     "date":  "2026-07-13",
-    "sha256":  "4ad52bfbaaaa79b1b618c0464e2b6d69992d0c0670801d84507c4e2be66553f7"
+    "sha256":  "76fbc317994d7f6694e3c90f1096baa62b32c5b9ed5a5307a4ea721caf853c5d"
 }
