@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-1.1.0-Setup.exe",
-    "notes":  "Licensing now runs through Lume\u0027s own server: a signed 30-day lease, two machines per key, and refunds revoked instantly. Downloads move to Lume\u0027s own CDN.",
-    "date":  "2026-07-14",
-    "sha256":  "527c568019dc0e435b96c88473818cfb42f76e56c0e7327b0534287f42ae3b9d"
+    "version":  "1.1.1",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-1.1.1-Setup.exe",
+    "notes":  "Settings overhaul: one-click settings workspace, in-place toolbar and strip controls with detached settings popouts, one-panel module settings, plus performance work across the board.",
+    "date":  "2026-07-17",
+    "sha256":  "9e6e2f301536a64bb291e27e8bb45b0e62d296bac1e4a36add54109800f1606f"
 }
