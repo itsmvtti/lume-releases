@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-1.1.1-Setup.exe",
-    "notes":  "Settings overhaul: one-click settings workspace, in-place toolbar and strip controls with detached settings popouts, one-panel module settings, plus performance work across the board.",
-    "date":  "2026-07-17",
-    "sha256":  "9e6e2f301536a64bb291e27e8bb45b0e62d296bac1e4a36add54109800f1606f"
+    "version":  "1.1.2",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-1.1.2-Setup.exe",
+    "notes":  "Complete the move to Polar: the checkout link baked into the app and plugins still pointed at the old shop.",
+    "date":  "2026-09-12",
+    "sha256":  "97cc04aaec7724caf924b81a61019c7b86296bf8571cf3a04ee05ee340ea7215"
 }
