@@ -1,7 +1,7 @@
 {
-    "version":  "2.1.1",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.1.1-Setup.exe",
-    "notes":  "Welcome questions and built-in setups; licensing, audio-source and save fixes before tester keys.",
+    "version":  "2.2.0",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.2.0-Setup.exe",
+    "notes":  "Cleaner module settings (same layout in every sheet, nothing disappears), four Settings tabs, scroll wheel no longer changes sliders by default, clearer two-channel spectrum, exact waveform speed at any frame rate, clip marks only for real clipping.",
     "date":  "2026-09-25",
-    "sha256":  "3106a4c7a9c4561c00474ec38070cd9da97d10ba0ef4431bafa2025f796c8b40"
+    "sha256":  "c812a32c8091e90124e41120f9701ec9d0e12011b2c488286bfb3cc7ee25f09c"
 }
