@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.0.0-Setup.exe",
-    "notes":  "A complete theming pass: every technical overlay is now a per-module setting on any theme, four themes redesigned, two new light themes, and the fully native UI.",
-    "date":  "2026-09-23",
-    "sha256":  "23e02138cddb2efd269eee94be5af81792950db34b1a6926c20fd387ae6cdc66"
+    "version":  "2.1.0",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.1.0-Setup.exe",
+    "notes":  "A quicker stereometer with a hollow middle, a scope that locks to the note, glass that keeps grids, a LUFS bar, keybinds and many fixes.",
+    "date":  "2026-09-25",
+    "sha256":  "cb97189aca19870f5d2951ba2a2e9ece237f71bfa79f95f8c3057ae59272fce3"
 }
