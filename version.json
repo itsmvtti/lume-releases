@@ -1,7 +1,7 @@
 {
-    "version":  "2.1.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.1.0-Setup.exe",
-    "notes":  "A quicker stereometer with a hollow middle, a scope that locks to the note, glass that keeps grids, a LUFS bar, keybinds and many fixes.",
+    "version":  "2.1.1",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.1.1-Setup.exe",
+    "notes":  "Welcome questions and built-in setups; licensing, audio-source and save fixes before tester keys.",
     "date":  "2026-09-25",
-    "sha256":  "cb97189aca19870f5d2951ba2a2e9ece237f71bfa79f95f8c3057ae59272fce3"
+    "sha256":  "3106a4c7a9c4561c00474ec38070cd9da97d10ba0ef4431bafa2025f796c8b40"
 }
