@@ -1,7 +1,7 @@
 {
-    "version":  "2.3.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.3.0-Setup.exe",
-    "notes":  "A first-run welcome that waits for your answers, a click-through ghost toolbar, an Intensity control for the visualiser, new module defaults, and a big speed-up: the visualiser draws in less than half the time and the app uses about 40% less CPU.",
-    "date":  "2026-09-25",
-    "sha256":  "f6e1a4f7247a79a70b65cbb64f107a94c5dec01fa644fec25a172f1a41582217"
+    "version":  "2.4.0",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.4.0-Setup.exe",
+    "notes":  "Boards: a detached window where you place any module anywhere, on a snapping grid. Every window now lands on a screen, whatever your monitors do. A switch for the loudness bars\u0027 smooth fall, and the waveform and spectrogram can loop the other way.",
+    "date":  "2026-10-02",
+    "sha256":  "b0ecf2f88e9b44eef55ef9a6e85ae7e26c5433ea6946e47af79441e307cdf97b"
 }
