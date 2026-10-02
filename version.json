@@ -1,7 +1,7 @@
 {
-    "version":  "2.4.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.4.0-Setup.exe",
-    "notes":  "Boards: a detached window where you place any module anywhere, on a snapping grid. Every window now lands on a screen, whatever your monitors do. A switch for the loudness bars\u0027 smooth fall, and the waveform and spectrogram can loop the other way.",
+    "version":  "2.4.1",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.4.1-Setup.exe",
+    "notes":  "Start with Windows: Lume can open when you sign in, as you left it, as the main window, the toolbar or just your detached strips. The toolbar settings are regrouped, a floating toolbar can be a ghost too, the ghost-off key now turns ghost back on, a ghost toolbar shows no buttons, and its fade under the pointer can be switched off.",
     "date":  "2026-10-02",
-    "sha256":  "b0ecf2f88e9b44eef55ef9a6e85ae7e26c5433ea6946e47af79441e307cdf97b"
+    "sha256":  "4bfed1650d279f799a78dc5b3f535f47d94369ec7ed4580d7961947064f08a64"
 }
