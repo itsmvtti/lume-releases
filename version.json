@@ -1,7 +1,7 @@
 {
-    "version":  "2.5.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.5.0-Setup.exe",
-    "notes":  "A/B referencing: load a reference track, or capture one from your source, and see it drawn over every meter - spectrum, spectrogram, loudness, stereometer, waveform and scope - with level matching, a library of saved references, and a new Reference panel in the settings view. The Toolbar button is now a menu (dock at top, dock at bottom, floating), the docked and floating toolbars keep their own settings, Start with Windows can open either one, and Minimise to tray is a keybind. Ghost strips now hide their hover buttons, and pinned strips stay above the toolbar.",
-    "date":  "2026-10-06",
-    "sha256":  "da969ee6ba06c09a3a97b86a76b5cdc48a82bea53411ba7dde48b4e14c440c8e"
+    "version":  "2.6.0",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.6.0-Setup.exe",
+    "notes":  "New plug-ins: Lume Strip and Lume Board replace the seven single-meter plug-ins - any modules in a row, a column or anywhere on a board, every setting inside the plug-in window, starting on the Clean setup. Also: a new welcome tour, the reference track played through the waveform, spectrogram and scope, level match Off / Auto / Fixed, and a quick visualiser switch.",
+    "date":  "2026-10-09",
+    "sha256":  "1a8fd874c2fc8fdfa0a04ad3f4b3eda333d60a0a0fb3d0696aa1e36a03a94344"
 }
