@@ -1,7 +1,7 @@
 {
-    "version":  "2.6.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.6.0-Setup.exe",
-    "notes":  "New plug-ins: Lume Strip and Lume Board replace the seven single-meter plug-ins - any modules in a row, a column or anywhere on a board, every setting inside the plug-in window, starting on the Clean setup. Also: a new welcome tour, the reference track played through the waveform, spectrogram and scope, level match Off / Auto / Fixed, and a quick visualiser switch.",
-    "date":  "2026-10-09",
-    "sha256":  "1a8fd874c2fc8fdfa0a04ad3f4b3eda333d60a0a0fb3d0696aa1e36a03a94344"
+    "version":  "2.6.1",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.6.1-Setup.exe",
+    "notes":  "Lume now keeps a detailed diagnostic log, with crash and freeze reports, so problems on your computer can be found and fixed quickly. Drawing is also lighter: about 10% less CPU per frame, with exactly the same picture.",
+    "date":  "2026-10-10",
+    "sha256":  "a901ce5a485d4bdd4ab13b09ba1a36624be1aed150aebbcc8050a1d69d916485"
 }
