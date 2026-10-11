@@ -1,7 +1,7 @@
 {
-    "version":  "2.6.2",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.6.2-Setup.exe",
-    "notes":  "Lume now opens your microphone only when the Microphone source is in use, so Windows no longer shows the mic as in use, and idle CPU is lower.",
+    "version":  "2.6.3",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.6.3-Setup.exe",
+    "notes":  "Fixed Lume freezing on some PCs: the window only updated when it was moved or resized.",
     "date":  "2026-10-11",
-    "sha256":  "78441ae45bb1a7e8d67bd4a7b63d927446251323360675b6ae1cb1a3ae6ddfd8"
+    "sha256":  "a24067d362a807d4644651da71606beb1e95ff5bb9a5acadd3ff28dd122fdc4d"
 }
