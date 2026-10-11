@@ -1,7 +1,7 @@
 {
-    "version":  "2.6.1",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.6.1-Setup.exe",
-    "notes":  "Lume now keeps a detailed diagnostic log, with crash and freeze reports, so problems on your computer can be found and fixed quickly. Drawing is also lighter: about 10% less CPU per frame, with exactly the same picture.",
-    "date":  "2026-10-10",
-    "sha256":  "a901ce5a485d4bdd4ab13b09ba1a36624be1aed150aebbcc8050a1d69d916485"
+    "version":  "2.6.2",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.6.2-Setup.exe",
+    "notes":  "Lume now opens your microphone only when the Microphone source is in use, so Windows no longer shows the mic as in use, and idle CPU is lower.",
+    "date":  "2026-10-11",
+    "sha256":  "78441ae45bb1a7e8d67bd4a7b63d927446251323360675b6ae1cb1a3ae6ddfd8"
 }
