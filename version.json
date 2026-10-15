@@ -1,7 +1,7 @@
 {
-    "version":  "2.7.1",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.7.1-Setup.exe",
-    "notes":  "The visualiser is now drawn by the graphics card: the same picture, higher frame rates in a big window.",
-    "date":  "2026-10-15",
-    "sha256":  "4682be6cdf58883c677a72029ed766025648ce7be1d4df611a095263726f7498"
+    "version":  "2.7.2",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.7.2-Setup.exe",
+    "notes":  "Changing the theme now recolours the whole interface at once: the settings panels, dropdowns, strips and boards no longer keep the old colours until you hover over them.",
+    "date":  "2026-10-16",
+    "sha256":  "c539d366b4f2e90bccdb9c74987a06577c08cac06f2483ad3c841d92f3d0d076"
 }
