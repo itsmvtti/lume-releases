@@ -1,7 +1,7 @@
 {
-    "version":  "2.7.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.7.0-Setup.exe",
-    "notes":  "Spectrogram heat colours in every theme, six new themes (Tachyon and its family), a visualiser Off switch and a resolution setting, clearer spectrogram overlays, a sleeker board grid, a faster stereometer, exact loudness readings shown in LU, and smoother performance with several windows open.",
+    "version":  "2.7.1",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.7.1-Setup.exe",
+    "notes":  "The visualiser is now drawn by the graphics card: the same picture, higher frame rates in a big window.",
     "date":  "2026-10-15",
-    "sha256":  "8c8b7b23f0c7d0d6a8c670a9166aa6d989cc3eb75e62ab487fe426d5ddd998ed"
+    "sha256":  "4682be6cdf58883c677a72029ed766025648ce7be1d4df611a095263726f7498"
 }
