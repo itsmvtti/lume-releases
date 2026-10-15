@@ -1,7 +1,7 @@
 {
-    "version":  "2.6.3",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.6.3-Setup.exe",
-    "notes":  "Fixed Lume freezing on some PCs: the window only updated when it was moved or resized.",
-    "date":  "2026-10-11",
-    "sha256":  "a24067d362a807d4644651da71606beb1e95ff5bb9a5acadd3ff28dd122fdc4d"
+    "version":  "2.7.0",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.7.0-Setup.exe",
+    "notes":  "Spectrogram heat colours in every theme, six new themes (Tachyon and its family), a visualiser Off switch and a resolution setting, clearer spectrogram overlays, a sleeker board grid, a faster stereometer, exact loudness readings shown in LU, and smoother performance with several windows open.",
+    "date":  "2026-10-15",
+    "sha256":  "8c8b7b23f0c7d0d6a8c670a9166aa6d989cc3eb75e62ab487fe426d5ddd998ed"
 }
