@@ -1,7 +1,7 @@
 {
-    "version":  "2.7.2",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.7.2-Setup.exe",
-    "notes":  "Changing the theme now recolours the whole interface at once: the settings panels, dropdowns, strips and boards no longer keep the old colours until you hover over them.",
+    "version":  "2.8.0",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.8.0-Setup.exe",
+    "notes":  "Settings is now one panel with a list of sections, and many controls were merged or tidied away; the toolbar gets a Settings button and an optional visualiser strip; the waveform gets a Band map colour; the loudness meter\u0027s LUFS bar is back as an option; Clear removes the A/B reference; the welcome\u0027s email address copies.",
     "date":  "2026-10-16",
-    "sha256":  "c539d366b4f2e90bccdb9c74987a06577c08cac06f2483ad3c841d92f3d0d076"
+    "sha256":  "ec9a190dd56457d9dad65440f4fc49923a2f5109d9fc5bad0dd00877622e95c5"
 }
