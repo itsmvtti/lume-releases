@@ -1,7 +1,7 @@
 {
-    "version":  "2.9.0",
-    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.9.0-Setup.exe",
-    "notes":  "Lume 2.9: every meter redrawn, with new themes and Sodium as the new default, three panel styles (Bench, Survey, Ledger), clearer module settings, new Clean and Detailed setups, and lower CPU use.",
-    "date":  "2026-11-07",
-    "sha256":  "f36f1c881443bcd48fc046252b88afb6b57b123aa6fee6a2970c9ced78f3aaf9"
+    "version":  "2.9.1",
+    "url":  "https://cdn.mvtti.co.uk/lume/Lume-2.9.1-Setup.exe",
+    "notes":  "The stereometer is now two modules: the Goniometer, and the Stereometer with Pan by band and Pan by frequency. Saved stereometers showing the goniometer open as Goniometers.",
+    "date":  "2026-11-11",
+    "sha256":  "63a59694fbae3286e94eb9b56f0c1ae24633d61ffd5be8ce45dde15dce9f8469"
 }
